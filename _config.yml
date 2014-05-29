@@ -1,3 +1,4 @@
 name: Mapillary Collections
 markdown: redcarpet
 pygments: true
+baseurl: /mapillary_examples

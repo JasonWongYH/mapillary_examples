@@ -1,4 +1,3 @@
-name: Your New Jekyll Site
+name: Mapillary Collections
 markdown: redcarpet
 pygments: true
-baseurl: /mapillary_examples

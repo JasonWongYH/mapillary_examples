@@ -1,4 +1,6 @@
 Mapillary Examples
 ================
 
-Show case websites for using the Mapillary widget.
+Showcase websites for using the Mapillary widget.
+
+[The example page is here](http://mapillary.github.io/mapillary_examples/index.html).

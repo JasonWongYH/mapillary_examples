@@ -17,17 +17,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <script src="http://mapillary.com/javascripts/mapillary.js" type="text/javascript"></script>
 
-    <meta content="https://d1cuyjsrcm0gby.cloudfront.net/{{ page.image }}/thumb-640.jpg" property="og:image">
-    <meta content="{{ page.title }}" property="og:title">
-    <meta content="{{ page.smalltitle }}"
-          property="og:description">
     <meta content="Mapillary" name="og:site_name">
 
-    <meta content="photo" name="twitter:card">
-    <meta content="{{ page.title }}" name="twitter:title">
-    <meta content="https://d1cuyjsrcm0gby.cloudfront.net/{{ page.image }}/thumb-640.jpg" name="twitter:image=src">
-    <meta content="@mapillary" name="twitter:site">
-    <meta content="mapillary.com" name="twitter:domain">
 
     <script type='text/javascript'>
         var QueryString = function () {
@@ -59,17 +50,17 @@
                 width: window.innerWidth,
                 height: window.innerHeight
             };
-            if(QueryString.virtualSeq) {
+            if (QueryString.virtualSeq) {
                 config.legs = QueryString.virtualSeq.replace(/!/g, "|");
             }
 
-            Mapillary.init('mapillary',config);
+            Mapillary.init('mapillary', config);
         }
     </script>
 </head>
 <body>
-<div id='mapillary'>
-    <!--[if !IE]>
-    <script>fixScale(document);</script><![endif]-->
+<div id='mapillary'></div>
+<!--[if !IE]>
+<script>fixScale(document);</script><![endif]-->
 </body>
 </html>

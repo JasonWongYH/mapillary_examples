@@ -1,0 +1,31 @@
+legs:
+  - name: Ystad - Hyllie
+    sublegs:
+      - name: subleg1
+        segments:
+          - - jNNh880yqITRZJGVpDekew
+            - dyF8SRMNmbTMcfJyrbp7gw
+  - name: Hyllie-MalmöC
+    sublegs:
+      - name: subleg1
+        segments:
+          - - DO5LLZw8a1gB-dmwXPYYqA
+            - c7svgtH8IDwnoPFtzRymbg
+  - name: MalmöC-Burlöv
+    sublegs:
+      - name: subleg1
+        segments:
+          - - a9SEeehBaUv_lJZKLwUMuw
+            - OZRd5ZnqTvYO0Wt4iAnONw
+  - name: Burlöv-Arlöv
+    sublegs:
+      - name: subleg1
+        segments:
+          - - EFTWsut-FEtM0bxnlXavxA
+            - _6TMq6sAi4z_RXXk0IxrMQ
+  - name: Arlöv-Höör
+    sublegs:
+      - name: subleg1
+        segments:
+          - - kc0319pHuZxfM9si0dStow
+            - luKxatzSyVfXtAi80K1ktQ

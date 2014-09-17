@@ -16,6 +16,7 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <script src="http://mapillary.com/javascripts/mapillary.js" type="text/javascript"></script>
+    <!--<script src="http://localhost:7890/javascripts/mapillary.js" type="text/javascript"></script>-->
 
     <meta content="https://d1cuyjsrcm0gby.cloudfront.net/{{ page.image }}/thumb-640.jpg" property="og:image">
     <meta content="{{ page.title }}" property="og:title">
@@ -28,10 +29,9 @@
     <meta content="https://d1cuyjsrcm0gby.cloudfront.net/{{ page.image }}/thumb-640.jpg" name="twitter:image=src">
     <meta content="@mapillary" name="twitter:site">
     <meta content="mapillary.com" name="twitter:domain">
-
     <script type='text/javascript'>
         window.onload = function (e) {
-            Mapillary.init('mapillary', {image: '{{ page.image }}', sequences: '{{ page.sequences }}', directions: '{{ page.directions }}', width: 500});
+            Mapillary.init('mapillary', {image: '{{ page.image }}', sequences: '{{ page.sequences }}', directions: '{{ site.data.directions.[page.directions] | jsonify }}', width: 500});
         }
     </script>
 </head>
@@ -66,8 +66,10 @@
 </div>
 <!-- end header -->
 
+
 <div class="wrapper">
     <section>
+
         <div id="title">
             <h1>{{ page.title }}</h1>
             <hr>

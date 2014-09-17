@@ -31,7 +31,7 @@
 
     <script type='text/javascript'>
       window.onload = function(e) {
-        Mapillary.init('mapillary', {image: '{{ page.image }}', sequences: '{{ page.sequences }}', directions: '{{ page.directions }}', width: 500});
+        Mapillary.init('mapillary', {image: '{{ page.image }}', sequences: '{{ page.sequences }}', directions: '{{ site.data.directions.[page.directions] | jsonify }}', width: 500});
       }
     </script>
   </head>

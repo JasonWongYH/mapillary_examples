@@ -1,0 +1,132 @@
+legs:
+  - name: Golden Gate Brigde
+    sublegs:
+      - name: subleg1
+        segments:
+          - - Dclf2tfsNdx2-SOGeOyahw
+            - FL8zwBcjxbWpWRSsd9xHVg
+
+  - name: Öresunds-Bridge
+    sublegs:
+      - name: subleg1
+        segments:
+          - - S-rEHwjQjBG-jviXUstDWw
+            - wylBhTOHnbmKT5Bhe8e0qA
+  - name: Deception Pass Bridge
+    sublegs:
+      - name: subleg1
+        segments:
+          - - EiK3f0ZuGlpAJYgYTYEuQA
+            - jZMuTTriqyYp0R3kqKMj9g
+  - name: Colombia
+    sublegs:
+      - name: subleg1
+        segments:
+          - - MODuTR0kBbBYUmyQ-8zgVA
+            - WrfJ8vjZlF2iq_CutUUgAw
+  - name: Iceland
+    sublegs:
+      - name: subleg1
+        segments:
+          - - FPw5Hm-C314q_K853BNrsw
+            - P5surkIGK5c8B5aymR_HBg
+  - name: Malmö City Tunnel
+    sublegs:
+      - name: subleg1
+        segments:
+          - - uOJVL7vfhojahr1kmkNilg
+            - 93ulGQRigPMUBjN5WYwWRw
+  - name: Ystad, Sweden
+    sublegs:
+      - name: subleg1
+        segments:
+          - - RJbTqm_2k8TBIIWHU51R4g
+            - _9iE0MhnQc5yIbSW5c0Llw
+
+  - name: Jena, Germany
+    sublegs:
+      - name: subleg1
+        segments:
+          - - rn6lAMsFkAaCwkZ_CnRS2A
+            - RA4mYDP96nGa5Y7CXTUDFA
+
+  - name: Stockholm, Sweden
+    sublegs:
+      - name: subleg1
+        segments:
+          - - G0F_xEeT0fx1zJNuZ2riCA
+            - jIaqGbcHMY-xJ6kkjZVj5g
+
+  - name: Columbus
+    sublegs:
+      - name: subleg1
+        segments:
+          - - XfAh7oMbDP8UQ21xQwHsFA
+            - 3laKGBzf0HYb-2mIaH1UDg
+  - name: Washington
+    sublegs:
+      - name: subleg1
+        segments:
+          - - ukuHM9SFOCT3em0qjo-f4Q
+            - a4V9luK_2_i-7UY69tPW0g
+
+  - name: Limhamnsvägen
+    sublegs:
+      - name: subleg1
+        segments:
+          - - 9pdlQkVu9wQkhm-k4P771w
+            - g18bNKcm_jtCZaHNEmX79g
+  - name: Ystad
+    sublegs:
+      - name: subleg1
+        segments:
+          - - RJbTqm_2k8TBIIWHU51R4g
+            - _9iE0MhnQc5yIbSW5c0Llw
+  - name: Liberty_Road
+    sublegs:
+      - name: subleg1
+        segments:
+          - - wR0JKmTIkRUeeVEM2m7Asg
+            - t7q5ShgC_wjygXL28DZDjQ
+  - name: Cogne
+    sublegs:
+      - name: subleg1
+        segments:
+          - - u9pLoZ2Ie5S75wcXf4Czlg
+            - sEa3LvdYbyI1iE8js3keTg
+  - name: Mont Blanc
+    sublegs:
+      - name: subleg1
+        segments:
+          - - _I4C_w6wSHMF9_aZQRgLjQ
+            - qDl5KX00jNSvuG2ze6wDhw
+  - name: Mont Blanc
+    sublegs:
+      - name: subleg1
+        segments:
+          - - gRVJ0UE5-lJNtmWGA1bnsQ
+            - sy85DjRKnewdVsaal8OcuQ
+  - name: Mont Blanc
+    sublegs:
+      - name: subleg1
+        segments:
+          - - VsPqcXe1toi73HeE-NTggg
+            - tvlA-s_-sRf-XyqgISGVAg
+  - name: Iceland
+    sublegs:
+      - name: subleg1
+        segments:
+          - - F6rkexDUGLjCuxnLIf5pBQ
+            - 1IHbCciulItL0owJoqoPHw
+  - name: Stapelbäddsparken
+    sublegs:
+      - name: subleg1
+        segments:
+          - - dZkbaCveU4f7xn5bdxrfGg
+            - Yt28qIYwB6rH-cMT4CuNpQ
+  - name: Hamnbassängen
+    sublegs:
+      - name: subleg1
+        segments:
+          - - gJnCijkLoSjKpDv8SRjPhA
+            - SZiL8RqKXq4dGVPvA_eSrg

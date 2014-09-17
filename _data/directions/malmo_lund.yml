@@ -1,0 +1,39 @@
+legs:
+  - name: Bus 34 Limhamn-Värnhemstorget
+    sublegs:
+    - name: subleg1
+      segments:
+        - - c1GnCpE2fP_szwgGIw69Cw
+          - 7eyVvQF7s8ugdF_fP_o9Jg
+
+  - name: Walk Bus 34 Bus_3 Värnhemstorget
+    sublegs:
+      - name: subleg1
+        segments:
+          - - wrvWcdSvQ_jW-B5Nsuum2w
+            - aKZPy40t0jLwhIRFkqutAw
+
+  - name: Bus 3 Värnhemstorget-Malmö Central
+    sublegs:
+      - name: subleg1
+        segments:
+          - - vJQG-crvHUw5uIygkM3S_w
+            - EnzUwGh4PuLITTNVXRSZUg
+  - name: Walk Bus 3-Platform 3a
+    sublegs:
+      - name: subleg1
+        segments:
+          - - lz65BArssuIWFOcthjScVw
+            - rgGmmkPm7Iq7t4FKr-K6kg
+  - name: Train Malmö Central-Lund Central
+    sublegs:
+      - name: subleg1
+        segments:
+          - - 5vnjdJu-auCC17hzuapjmQ
+            - c7svgtH8IDwnoPFtzRymbg
+          - - a9SEeehBaUv_lJZKLwUMuw
+            - OZRd5ZnqTvYO0Wt4iAnONw
+          - - EFTWsut-FEtM0bxnlXavxA
+            - _6TMq6sAi4z_RXXk0IxrMQ
+          - - ojwOaUoWxfdHzv7uvc7YkA
+            - PDUWzqNpWFsVPWkYYKAZaw

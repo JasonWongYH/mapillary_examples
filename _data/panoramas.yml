@@ -1,0 +1,7 @@
+legs:
+  - name: San Francisco
+    sublegs:
+      - name: subleg1
+        segments:
+          - - dTKfoDE1P1QEiLlMm-PIrA
+            - PpmqLKW2ML2pUqSp3lfA4g

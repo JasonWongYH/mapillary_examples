@@ -1,4 +1,5 @@
 legs:
+
   - name: Bus 34 Limhamn-Värnhemstorget
     sublegs:
     - name: Sibbarp - Strandgatan
@@ -98,44 +99,30 @@ legs:
     sublegs:
     - name: First
       segments:
-#        - - 7eyVvQF7s8ugdF_fP_o9Jg
-#          - 7eyVvQF7s8ugdF_fP_o9Jg
         - - wrvWcdSvQ_jW-B5Nsuum2w
           - aKZPy40t0jLwhIRFkqutAw
-  - name: Bus Line 3 Värnhem - Centralen
-    sublegs:
-    - name: Värnhem - Slussen
-      segments:
-        - - vJQG-crvHUw5uIygkM3S_w
-          - 8mt1f3WiDSU1xvxsUshxRg
-        - - S3ftFNSqdNe3RgFS5qFwqw
-          - S3ftFNSqdNe3RgFS5qFwqw
-#    - name: Slussen Pano
+#  - name: Bus Line 3 Värnhem - Centralen
+#    sublegs:
+#    - name: Värnhem - Slussen
 #      segments:
-#        - - t0ZJBe6BOkZt69tFyRWslg
-#          - t0ZJBe6BOkZt69tFyRWslg
-    - name: Slussen - Drottningtorget
-      segments:
+#        - - vJQG-crvHUw5uIygkM3S_w
+#          - 8mt1f3WiDSU1xvxsUshxRg
 #        - - S3ftFNSqdNe3RgFS5qFwqw
 #          - S3ftFNSqdNe3RgFS5qFwqw
-        - - 8mt1f3WiDSU1xvxsUshxRg
-          - X8b2kqAyfn50MEBMYcZhEw
-        - - Q89kMs0PmNG1vnFqUaBtiw
-          - Q89kMs0PmNG1vnFqUaBtiw
-#    - name: Drottningtorget- Pano
+#    - name: Slussen - Drottningtorget
 #      segments:
-#        - - vfh8dL4hkMIXKRWodIddxA
-#          - vfh8dL4hkMIXKRWodIddxA
-    - name: Drottningtorget - Caroli
-      segments:
+#        - - 8mt1f3WiDSU1xvxsUshxRg
+#          - X8b2kqAyfn50MEBMYcZhEw
 #        - - Q89kMs0PmNG1vnFqUaBtiw
 #          - Q89kMs0PmNG1vnFqUaBtiw
-        - - X8b2kqAyfn50MEBMYcZhEw
-          - jGwMT2OjDnwh-Yq4m7J0cQ
-    - name: Caroli - Centralen
-      segments:
-        - - jGwMT2OjDnwh-Yq4m7J0cQ
-          - EnzUwGh4PuLITTNVXRSZUg
+#    - name: Drottningtorget - Caroli
+#      segments:
+#        - - X8b2kqAyfn50MEBMYcZhEw
+#          - jGwMT2OjDnwh-Yq4m7J0cQ
+#    - name: Caroli - Centralen
+#      segments:
+#        - - jGwMT2OjDnwh-Yq4m7J0cQ
+#          - EnzUwGh4PuLITTNVXRSZUg
 #  - name: Walk Line 3 Centralen - platform 3a
 #    sublegs:
 #    - name: subleg1

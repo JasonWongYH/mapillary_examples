@@ -106,14 +106,14 @@ legs:
       segments:
         - - vJQG-crvHUw5uIygkM3S_w
           - Z3g5NheIje1vEuFmOxbeEg
-        - - S3ftFNSqdNe3RgFS5qFwqw
-          - S3ftFNSqdNe3RgFS5qFwqw
+#        - - S3ftFNSqdNe3RgFS5qFwqw
+#          - S3ftFNSqdNe3RgFS5qFwqw
     - name: Slussen - Drottningtorget
       segments:
         - - 8mt1f3WiDSU1xvxsUshxRg
           - X8b2kqAyfn50MEBMYcZhEw
-        - - Q89kMs0PmNG1vnFqUaBtiw
-          - Q89kMs0PmNG1vnFqUaBtiw
+#        - - Q89kMs0PmNG1vnFqUaBtiw
+#          - Q89kMs0PmNG1vnFqUaBtiw
     - name: Drottningtorget - Caroli
       segments:
         - - X8b2kqAyfn50MEBMYcZhEw
@@ -134,8 +134,8 @@ legs:
       segments:
         - - 5vnjdJu-auCC17hzuapjmQ
           - c7svgtH8IDwnoPFtzRymbg
-        - - r5YY621QfeioJ0xZQDhbYg
-          - OZRd5ZnqTvYO0Wt4iAnONw
+#        - - r5YY621QfeioJ0xZQDhbYg
+#          - OZRd5ZnqTvYO0Wt4iAnONw
         - - EFTWsut-FEtM0bxnlXavxA
           - _6TMq6sAi4z_RXXk0IxrMQ
 #    - name: Burlöv - Åkarp

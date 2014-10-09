@@ -1,144 +1,143 @@
 legs:
 
-  - name: Bus 34 Limhamn-Värnhemstorget
+  - name: Bus 34 Celsiusgatan - Värnhemstorget
     sublegs:
-    - name: Sibbarp - Strandgatan
-      segments:
-        - - c1GnCpE2fP_szwgGIw69Cw
-          - _hUOup7rMd9wMwD8JqKMRg
-    - name: Strandgatan - Stranden
-      segments:
-        - - Oxhkh8VQ7nbkUpPDhKun2w
-          - lm7kNV0ScQfYyyOR-GtGUw
-    - name: Stranden - Limhamns Torg
-      segments:
-        - - LIddUWnmX1W6N93ybIplGA
-          - fFCKXW04Kz3I-reT4ccoKQ
-    - name: Limhamns Torg - Linnéskolan
-      segments:
-        - - dGBCVikvP5JayOVL1VjVnw
-          - UP6e9guP6xFLLFkpcrpmmw
-    - name: Linnéskolan - Västanväg
-      segments:
-        - - 5oZMxDV12Yd_3rdMYD3XiQ
-          - g5_a230kiWoM3crEkyjzzg
-    - name: Västanväg - Bispgatan
-      segments:
-        - - t6M1XETKVKwWpcRj-RIJOw
-          - 472tFc9ScpADtxfxKFm9EQ
-    - name: Bispgatan - Högestadsgatan
-      segments:
-        - - qD6YV3IxvoyCgjRCDLAU8Q
-          - TC1afPDfiahAILFLLGQsXg
-    - name: Högestadsgatan - Rudbecksgatan
-      segments:
-        - - OOvO7hT4CSy9JOWA4tanWQ
-          - NsxnzR6qLRqvtAZRrBSO5A
-    - name: Rudbecksgatan - Gamlegård
-      segments:
-        - - EGaEMH2OD-P0w9ZQgZ0Ayg
-          - YevupT49izGGLVvqeJvaEg
-    - name: Gamlegård - Bellevuegården
-      segments:
-        - - kPyduo1VbMcCRwoOfBKwgg
-          - S_EHgzlp8RwdZEQQ4Gqn0w
-    - name: Bellevuegården - Bellevueallén
-      segments:
-        - - S_EHgzlp8RwdZEQQ4Gqn0w
-          - HaU_pIScZ24X5XYgvEMCKQ
-    - name: Bellevueallén - Hålsjögatan
-      segments:
-        - - RTeYumnHxUDjg3Xnby4bYg
-          - Y2i77jOucxSNpaDPTh2yJA
-    - name: Hålsjögatan - Isstadion
-      segments:
-        - - Y2i77jOucxSNpaDPTh2yJA
-          - dGugmNx3Vlkk5XlBuanzSA
-    - name: Isstadion - Södertorp
-      segments:
-        - - BlXUkVZrPnbd4XTNQb5nZw
-          - KF76Awib19WJGxVxfOffYA
-    - name: Södertorp - Mobilia
-      segments:
-        - - gRGtq-mmGF3R_Zqt8sf7mg
-          - iz5cDVsWKJpI9Yp9mNnvpg
-    - name: Mobilia - Dalaplan
-      segments:
-        - - v7mauc-mYoagwF56sXx_JQ
-          - 4OsWWEjXif_tRecZ8xwh-w
-    - name: Södervärn - Möllevångstorget
-      segments:
-        - - 5VI0RqjoAp_C26ZaXDQ-qg
-          - 8A-5oRVvV0tGGPAQqWy1wQ
-    - name: Möllevångstorget - Barkgatan
-      segments:
-        - - P4UKXW4nw_WYiQSnelHtbg
-          - 2Omded9d8Zr8KXdHMFlmIA
-    - name: Barkgatan - Konserthuset
-      segments:
-        - - HjBWld6sevF4uSrOSQQyqg
-          - xkcTNQVAwzOa3G7Nc80Nwg
-    - name: Konserthuset - Disponentgatan
-      segments:
-        - - fUuee9JDfr62wyVIlmhAXA
-          - ibTc25zx4PlGRVJPxmYP8w
-    - name: Disponentgatan - St. Pauli Kyrka
-      segments:
-        - - nuKJogxb87Ofdn5zCENPrQ
-          - UR4wrFUfGLEyKTgpcG6lYw
-    - name: St. Pauli Kyrka - Celsiusgatan
-      segments:
-        - - 0MS1LUdlE0a7d6hDDOEnOg
-          - ID3pcL6YKmZhFQrG0NUSfA
+#    - name: Sibbarp - Strandgatan
+#      segments:
+#        - - c1GnCpE2fP_szwgGIw69Cw
+#          - _hUOup7rMd9wMwD8JqKMRg
+#    - name: Strandgatan - Stranden
+#      segments:
+#        - - Oxhkh8VQ7nbkUpPDhKun2w
+#          - lm7kNV0ScQfYyyOR-GtGUw
+#    - name: Stranden - Limhamns Torg
+#      segments:
+#        - - LIddUWnmX1W6N93ybIplGA
+#          - fFCKXW04Kz3I-reT4ccoKQ
+#    - name: Limhamns Torg - Linnéskolan
+#      segments:
+#        - - dGBCVikvP5JayOVL1VjVnw
+#          - UP6e9guP6xFLLFkpcrpmmw
+#    - name: Linnéskolan - Västanväg
+#      segments:
+#        - - 5oZMxDV12Yd_3rdMYD3XiQ
+#          - g5_a230kiWoM3crEkyjzzg
+#    - name: Västanväg - Bispgatan
+#      segments:
+#        - - t6M1XETKVKwWpcRj-RIJOw
+#          - 472tFc9ScpADtxfxKFm9EQ
+#    - name: Bispgatan - Högestadsgatan
+#      segments:
+#        - - qD6YV3IxvoyCgjRCDLAU8Q
+#          - TC1afPDfiahAILFLLGQsXg
+#    - name: Högestadsgatan - Rudbecksgatan
+#      segments:
+#        - - OOvO7hT4CSy9JOWA4tanWQ
+#          - NsxnzR6qLRqvtAZRrBSO5A
+#    - name: Rudbecksgatan - Gamlegård
+#      segments:
+#        - - EGaEMH2OD-P0w9ZQgZ0Ayg
+#          - YevupT49izGGLVvqeJvaEg
+#    - name: Gamlegård - Bellevuegården
+#      segments:
+#        - - kPyduo1VbMcCRwoOfBKwgg
+#          - S_EHgzlp8RwdZEQQ4Gqn0w
+#    - name: Bellevuegården - Bellevueallén
+#      segments:
+#        - - S_EHgzlp8RwdZEQQ4Gqn0w
+#          - HaU_pIScZ24X5XYgvEMCKQ
+#    - name: Bellevueallén - Hålsjögatan
+#      segments:
+#        - - RTeYumnHxUDjg3Xnby4bYg
+#          - Y2i77jOucxSNpaDPTh2yJA
+#    - name: Hålsjögatan - Isstadion
+#      segments:
+#        - - Y2i77jOucxSNpaDPTh2yJA
+#          - dGugmNx3Vlkk5XlBuanzSA
+#    - name: Isstadion - Södertorp
+#      segments:
+#        - - BlXUkVZrPnbd4XTNQb5nZw
+#          - KF76Awib19WJGxVxfOffYA
+#    - name: Södertorp - Mobilia
+#      segments:
+#        - - gRGtq-mmGF3R_Zqt8sf7mg
+#          - iz5cDVsWKJpI9Yp9mNnvpg
+#    - name: Mobilia - Dalaplan
+#      segments:
+#        - - v7mauc-mYoagwF56sXx_JQ
+#          - 4OsWWEjXif_tRecZ8xwh-w
+#    - name: Södervärn - Möllevångstorget
+#      segments:
+#        - - 5VI0RqjoAp_C26ZaXDQ-qg
+#          - 8A-5oRVvV0tGGPAQqWy1wQ
+#    - name: Möllevångstorget - Barkgatan
+#      segments:
+#        - - P4UKXW4nw_WYiQSnelHtbg
+#          - 2Omded9d8Zr8KXdHMFlmIA
+#    - name: Barkgatan - Konserthuset
+#      segments:
+#        - - HjBWld6sevF4uSrOSQQyqg
+#          - xkcTNQVAwzOa3G7Nc80Nwg
+#    - name: Konserthuset - Disponentgatan
+#      segments:
+#        - - fUuee9JDfr62wyVIlmhAXA
+#          - ibTc25zx4PlGRVJPxmYP8w
+#    - name: Disponentgatan - St. Pauli Kyrka
+#      segments:
+#        - - nuKJogxb87Ofdn5zCENPrQ
+#          - UR4wrFUfGLEyKTgpcG6lYw
+#    - name: St. Pauli Kyrka - Celsiusgatan
+#      segments:
+#        - - 0MS1LUdlE0a7d6hDDOEnOg
+#          - ID3pcL6YKmZhFQrG0NUSfA
     - name: Celsiusgatan - Värnhemstorget
       segments:
         - - I_-Hi6WoC_0uK6RGycU3Bw
           - 7eyVvQF7s8ugdF_fP_o9Jg
-
   - name: Walk Värnhemstorget 34 -> 3
     sublegs:
-    - name: First
+    - name: Läge 6 -> Läge 4
       segments:
         - - wrvWcdSvQ_jW-B5Nsuum2w
           - aKZPy40t0jLwhIRFkqutAw
-#  - name: Bus Line 3 Värnhem - Centralen
-#    sublegs:
-#    - name: Värnhem - Slussen
-#      segments:
-#        - - vJQG-crvHUw5uIygkM3S_w
-#          - 8mt1f3WiDSU1xvxsUshxRg
-#        - - S3ftFNSqdNe3RgFS5qFwqw
-#          - S3ftFNSqdNe3RgFS5qFwqw
-#    - name: Slussen - Drottningtorget
-#      segments:
-#        - - 8mt1f3WiDSU1xvxsUshxRg
-#          - X8b2kqAyfn50MEBMYcZhEw
-#        - - Q89kMs0PmNG1vnFqUaBtiw
-#          - Q89kMs0PmNG1vnFqUaBtiw
-#    - name: Drottningtorget - Caroli
-#      segments:
-#        - - X8b2kqAyfn50MEBMYcZhEw
-#          - jGwMT2OjDnwh-Yq4m7J0cQ
-#    - name: Caroli - Centralen
-#      segments:
-#        - - jGwMT2OjDnwh-Yq4m7J0cQ
-#          - EnzUwGh4PuLITTNVXRSZUg
-#  - name: Walk Line 3 Centralen - platform 3a
-#    sublegs:
-#    - name: subleg1
-#      segments:
-#        - - lz65BArssuIWFOcthjScVw
-#          - rgGmmkPm7Iq7t4FKr-K6kg
-#  - name: Train Malmö Central - Lund C
-#    sublegs:
-#    - name: Malmö Central - Burlöv
-#      segments:
-#        - - 5vnjdJu-auCC17hzuapjmQ
-#          - c7svgtH8IDwnoPFtzRymbg
-#        - - r5YY621QfeioJ0xZQDhbYg
-#          - OZRd5ZnqTvYO0Wt4iAnONw
-#        - - EFTWsut-FEtM0bxnlXavxA
-#          - _6TMq6sAi4z_RXXk0IxrMQ
+  - name: Bus Line 3 Värnhem - Centralen
+    sublegs:
+    - name: Värnhem - Slussen
+      segments:
+        - - vJQG-crvHUw5uIygkM3S_w
+          - Z3g5NheIje1vEuFmOxbeEg
+        - - S3ftFNSqdNe3RgFS5qFwqw
+          - S3ftFNSqdNe3RgFS5qFwqw
+    - name: Slussen - Drottningtorget
+      segments:
+        - - 8mt1f3WiDSU1xvxsUshxRg
+          - X8b2kqAyfn50MEBMYcZhEw
+        - - Q89kMs0PmNG1vnFqUaBtiw
+          - Q89kMs0PmNG1vnFqUaBtiw
+    - name: Drottningtorget - Caroli
+      segments:
+        - - X8b2kqAyfn50MEBMYcZhEw
+          - jGwMT2OjDnwh-Yq4m7J0cQ
+    - name: Caroli - Centralen
+      segments:
+        - - w9hbVtCMxGMC77tXwb_1dA
+          - EnzUwGh4PuLITTNVXRSZUg
+  - name: Walk Line 3 Centralen - platform 3a
+    sublegs:
+    - name: Bus Läge 2 -> Tåg 3a
+      segments:
+        - - lz65BArssuIWFOcthjScVw
+          - rgGmmkPm7Iq7t4FKr-K6kg
+  - name: Train Malmö Central - Lund C
+    sublegs:
+    - name: Malmö Central - Burlöv
+      segments:
+        - - 5vnjdJu-auCC17hzuapjmQ
+          - c7svgtH8IDwnoPFtzRymbg
+        - - r5YY621QfeioJ0xZQDhbYg
+          - OZRd5ZnqTvYO0Wt4iAnONw
+        - - EFTWsut-FEtM0bxnlXavxA
+          - _6TMq6sAi4z_RXXk0IxrMQ
 #    - name: Burlöv - Åkarp
 #      segments:
 #        - - ojwOaUoWxfdHzv7uvc7YkA

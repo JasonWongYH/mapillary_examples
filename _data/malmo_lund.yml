@@ -78,18 +78,18 @@ legs:
 #      segments:
 #        - - HjBWld6sevF4uSrOSQQyqg
 #          - xkcTNQVAwzOa3G7Nc80Nwg
-#    - name: Konserthuset - Disponentgatan
-#      segments:
-#        - - fUuee9JDfr62wyVIlmhAXA
-#          - ibTc25zx4PlGRVJPxmYP8w
-#    - name: Disponentgatan - St. Pauli Kyrka
-#      segments:
-#        - - nuKJogxb87Ofdn5zCENPrQ
-#          - UR4wrFUfGLEyKTgpcG6lYw
-#    - name: St. Pauli Kyrka - Celsiusgatan
-#      segments:
-#        - - 0MS1LUdlE0a7d6hDDOEnOg
-#          - ID3pcL6YKmZhFQrG0NUSfA
+    - name: Konserthuset - Disponentgatan
+      segments:
+        - - fUuee9JDfr62wyVIlmhAXA
+          - ibTc25zx4PlGRVJPxmYP8w
+    - name: Disponentgatan - St. Pauli Kyrka
+      segments:
+        - - nuKJogxb87Ofdn5zCENPrQ
+          - UR4wrFUfGLEyKTgpcG6lYw
+    - name: St. Pauli Kyrka - Celsiusgatan
+      segments:
+        - - 0MS1LUdlE0a7d6hDDOEnOg
+          - ID3pcL6YKmZhFQrG0NUSfA
     - name: Celsiusgatan - Värnhemstorget
       segments:
         - - I_-Hi6WoC_0uK6RGycU3Bw

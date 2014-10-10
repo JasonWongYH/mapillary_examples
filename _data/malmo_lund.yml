@@ -80,24 +80,26 @@ legs:
 #          - xkcTNQVAwzOa3G7Nc80Nwg
     - name: Konserthuset - Disponentgatan
       segments:
-        - - fUuee9JDfr62wyVIlmhAXA
-          - ibTc25zx4PlGRVJPxmYP8w
+        - - xkcTNQVAwzOa3G7Nc80Nwg
+          - midBKR9lOuiFYN5TzuMxLA
     - name: Disponentgatan - St. Pauli Kyrka
       segments:
-        - - nuKJogxb87Ofdn5zCENPrQ
-          - UR4wrFUfGLEyKTgpcG6lYw
+        - - ibTc25zx4PlGRVJPxmYP8w
+          - mnVgW5ntbJU9hsgBicKjfg
     - name: St. Pauli Kyrka - Celsiusgatan
       segments:
-        - - 0MS1LUdlE0a7d6hDDOEnOg
-          - ID3pcL6YKmZhFQrG0NUSfA
+        - - UR4wrFUfGLEyKTgpcG6lYw
+          - qsAiIUe6A4OjR-V8bG9J7g
     - name: Celsiusgatan - Värnhemstorget
       segments:
-        - - I_-Hi6WoC_0uK6RGycU3Bw
-          - 7eyVvQF7s8ugdF_fP_o9Jg
+        - - ID3pcL6YKmZhFQrG0NUSfA
+          - QAihthbBS-hIWsSBZPNuAA
   - name: Walk Värnhemstorget 34 -> 3
     sublegs:
     - name: Läge 6 -> Läge 4
       segments:
+        - - 7eyVvQF7s8ugdF_fP_o9Jg
+          - 7eyVvQF7s8ugdF_fP_o9Jg
         - - wrvWcdSvQ_jW-B5Nsuum2w
           - aKZPy40t0jLwhIRFkqutAw
   - name: Bus Line 3 Värnhem - Centralen
@@ -111,21 +113,23 @@ legs:
     - name: Slussen - Drottningtorget
       segments:
         - - 8mt1f3WiDSU1xvxsUshxRg
-          - X8b2kqAyfn50MEBMYcZhEw
+          - qs2vMaf2XAZmYJJQaSVVxw
 #        - - Q89kMs0PmNG1vnFqUaBtiw
 #          - Q89kMs0PmNG1vnFqUaBtiw
     - name: Drottningtorget - Caroli
       segments:
         - - X8b2kqAyfn50MEBMYcZhEw
-          - jGwMT2OjDnwh-Yq4m7J0cQ
+          - syhUwVCUXHlidTfP6PWOmQ
     - name: Caroli - Centralen
       segments:
-        - - w9hbVtCMxGMC77tXwb_1dA
-          - EnzUwGh4PuLITTNVXRSZUg
+        - - jGwMT2OjDnwh-Yq4m7J0cQ
+          - CUD769yhboixDyB3pQx5mg
   - name: Walk Line 3 Centralen - platform 3a
     sublegs:
     - name: Bus Läge 2 -> Tåg 3a
       segments:
+        - - EnzUwGh4PuLITTNVXRSZUg
+          - EnzUwGh4PuLITTNVXRSZUg
         - - lz65BArssuIWFOcthjScVw
           - rgGmmkPm7Iq7t4FKr-K6kg
   - name: Train Malmö Central - Lund C
